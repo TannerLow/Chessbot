@@ -149,6 +149,7 @@
   <ItemGroup>
     <ClInclude Include="include\Activation.h" />
     <ClInclude Include="include\ChessBoard.h" />
+    <ClInclude Include="include\ChessBot.h" />
     <ClInclude Include="include\Matrix.h" />
     <ClInclude Include="include\NeuralNetwork.h" />
   </ItemGroup>
